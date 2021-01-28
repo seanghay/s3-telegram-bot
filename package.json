@@ -1,12 +1,12 @@
 {
-  "name": "icons-upload",
+  "name": "s3-telegram-bot",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "private": "true",
+  "private": "false",
   "author": "Seanghay Yath <seanghay.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
